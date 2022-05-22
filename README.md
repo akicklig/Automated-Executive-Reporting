@@ -21,4 +21,4 @@ The end-to-end stages of the project workflow are:
 To reproduce this process on one's own machine, walk through the following:
 
 1. In the [Workflow Files Folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files), download the data files inside the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data).
-2. Create the `sales` SQL database. The [query](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/create_db.sql) for creating the database is located in this repository.
+2. Create the `sales` SQL database. The [query](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/create_db.sql) for creating the database is located in this repository. The synthetic source data to load into the database is all located in the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data) and consists of 6 CSV files: `customers.csv`, 
