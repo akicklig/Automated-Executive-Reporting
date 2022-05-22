@@ -30,4 +30,5 @@ To reproduce this process on one's own machine, walk through the following:
 3. Query the `sales` data to be used for building the Excel file. The [queries](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/sql_queries.sql) for these pulls can be found in this repository. Export the queried data to the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data) or simply use the files already downloaded from this repository.
 - There are 5 data files to use when building the Excel file: `sales_datadump.xlsx`, `sales_timeseries_day.xlsx`, `sales_timeseries_month.xlsx`, `sales_top_10_states.xlsx`, and `sales_cities_states.xlsx`.
 - There are duplicated versions of these files in both `xlsx` and `csv` formats in the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data). The Jupyter Notebook file leverages the `xlsx` files to run its code.
-4. https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/pynb.ipynb
+4. Download the [Executive_Reporting.xlsx](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/Executive%20Reporting.xlsx) file
+10. https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/pynb.ipynb
