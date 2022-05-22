@@ -12,5 +12,7 @@ The end-to-end stages of the project workflow are:
 3. Build an Excel file that charts performance and uses intelligent-text to dynamically update the commentary/insights based on the data.
 4. Leverage Python to automatically:
 - update Excel data tabs with new data queried from SQL
-- use Python to automatically update the PivotTables in Excel
-- run Python to automat
+- update the PivotTables in Excel
+- create and save a PowerPoint with charting output from Excel
+- draft and send an email to Executive Leadership with the newly created PowerPoint attached.
+
