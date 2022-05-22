@@ -7,5 +7,5 @@ This project is meant to demonstrate the efficiencies of automating routine repo
 
 The end-to-end stages of the project workflow are:
 
-1. Create a synthetic data set for a hypothetical car sales company and then load the data into a simply star schema (1 fact table and 5 dimension tables)  database via MySQL Workbench.
+1. Create a synthetic data set for a hypothetical car sales company and then load the data into a simple star schema database (1 fact table and 5 dimension tables)  database via MySQL Workbench.
 2. Query 
