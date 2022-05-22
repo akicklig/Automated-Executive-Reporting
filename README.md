@@ -31,4 +31,4 @@ To reproduce this process on one's own machine, walk through the following:
 - There are 5 data files to use when building the Excel file: `sales_datadump.xlsx`, `sales_timeseries_day.xlsx`, `sales_timeseries_month.xlsx`, `sales_top_10_states.xlsx`, and `sales_cities_states.xlsx`.
 - There are duplicated versions of these files in both `xlsx` and `csv` formats in the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data). The Jupyter Notebook file leverages the `xlsx` files to run its code.
 4. Download the [Executive_Reporting.xlsx](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/Executive%20Reporting.xlsx) file and save it to the relevant file path.
-10. https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/pynb.ipynb
+5. Download the [Jupyter Notebook](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/pynb.ipynb) 
