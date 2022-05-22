@@ -11,6 +11,6 @@ The end-to-end stages of the project workflow are:
 2. Query the data through SQL, creating 4 pre-formatted/aggregated pulls and 1 data dump for pivoting in Excel.
 3. Build an Excel file that charts performance and uses intelligent-text to dynamically update the commentary/insights based on the data.
 4. Leverage Python to automatically:
-..* update Excel data tabs with new data queried from SQL.
+- update Excel data tabs with new data queried from SQL.
 b. Use Python to automatically update the PivotTables in Excel.
 c. Run Python to automat
