@@ -25,4 +25,5 @@ To reproduce this process on one's own machine, walk through the following:
 - The synthetic source data to load into the database is all located in the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data) and consists of 6 CSV files: `customers.csv`, `jobs.csv`, `city_state.csv`, `cars.csv`, `transactions.csv`, and `employees.csv`.
 - Of note if using MySQL to reproduce the project:
 - Ensure that `local_infile = true` to load data from your machine into the database.
-- If the attempt to load local data triggers an `Error Code 2068` alert, refer to [this stack overflow entry](https://stackoverflow.com/questions/63264360/error-code-2068-file-requested-rejected-due-to-restrictions-on-access-with-root/)
+- If the attempt to load local data triggers an `Error Code 2068` alert, refer to [this stack overflow entry](https://stackoverflow.com/questions/63264360/error-code-2068-file-requested-rejected-due-to-restrictions-on-access-with-root/) for assitance.
+- Ensure the load files are located in the correct `/Uploads/` file path: `'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/customers.csv'`.
