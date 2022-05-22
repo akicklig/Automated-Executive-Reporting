@@ -1,0 +1,360 @@
+State,City,Sales_Price
+"Grand Total","Sub Total",29357592
+Alabama,"Sub Total",554127
+Alabama,Birmingham,214070
+Alabama,Gadsden,15532
+Alabama,Huntsville,138077
+Alabama,Mobile,74033
+Alabama,Montgomery,58789
+Alabama,Tuscaloosa,53626
+Alaska,"Sub Total",166925
+Alaska,Anchorage,133639
+Alaska,Fairbanks,33286
+Arizona,"Sub Total",612628
+Arizona,Gilbert,44270
+Arizona,Phoenix,272550
+Arizona,Prescott,19192
+Arizona,Scottsdale,34123
+Arizona,Tempe,25784
+Arizona,Tucson,216709
+Arkansas,"Sub Total",101749
+Arkansas,"Hot Springs National Park",51488
+Arkansas,"Little Rock",46710
+Arkansas,"North Little Rock",3551
+California,"Sub Total",3310865
+California,Alhambra,29305
+California,Anaheim,131535
+California,Bakersfield,197085
+California,Brea,5476
+California,Burbank,31129
+California,Chico,16765
+California,Fresno,117644
+California,Fullerton,45957
+California,"Garden Grove",81177
+California,Glendale,28052
+California,Hayward,7603
+California,"Huntington Beach",12858
+California,Inglewood,124472
+California,Irvine,73461
+California,Lancaster,42128
+California,"Long Beach",33684
+California,"Los Angeles",192955
+California,Modesto,32105
+California,"Moreno Valley",84683
+California,"Mountain View",36138
+California,"North Hollywood",37494
+California,Oakland,64224
+California,Orange,46343
+California,Oxnard,46703
+California,Pasadena,59744
+California,Richmond,27206
+California,Sacramento,606267
+California,"San Bernardino",65379
+California,"San Diego",158127
+California,"San Francisco",132160
+California,"San Jose",99928
+California,"Santa Barbara",55488
+California,"Santa Clara",44188
+California,"Santa Cruz",12853
+California,"Santa Monica",47061
+California,"Santa Rosa",37887
+California,"South Lake Tahoe",8337
+California,Stockton,116902
+California,Torrance,100072
+California,"Van Nuys",99818
+California,Visalia,65632
+California,Whittier,54840
+Colorado,"Sub Total",664973
+Colorado,Arvada,28143
+Colorado,Aurora,45861
+Colorado,Boulder,33818
+Colorado,"Colorado Springs",136088
+Colorado,Denver,187989
+Colorado,Englewood,40267
+Colorado,Greeley,45266
+Colorado,Littleton,147541
+Connecticut,"Sub Total",406782
+Connecticut,Bridgeport,44268
+Connecticut,Hartford,147464
+Connecticut,"New Haven",109770
+Connecticut,Stamford,64801
+Connecticut,"West Hartford",40479
+Delaware,"Sub Total",101207
+Delaware,Newark,71310
+Delaware,Wilmington,29897
+"District of Columbia","Sub Total",1080515
+"District of Columbia",Washington,1080515
+Florida,"Sub Total",2914171
+Florida,"Boca Raton",25309
+Florida,"Bonita Springs",26822
+Florida,"Boynton Beach",8687
+Florida,Bradenton,21362
+Florida,Clearwater,77869
+Florida,"Fort Lauderdale",165880
+Florida,"Fort Pierce",43146
+Florida,Gainesville,39451
+Florida,Hialeah,35540
+Florida,Hollywood,43766
+Florida,Homestead,38763
+Florida,Jacksonville,327345
+Florida,Kissimmee,18795
+Florida,Largo,80737
+Florida,"Lehigh Acres",56557
+Florida,Melbourne,49507
+Florida,Miami,455681
+Florida,"Miami Beach",28752
+Florida,Naples,88069
+Florida,"North Port",65390
+Florida,Orlando,229392
+Florida,"Palm Bay",7282
+Florida,"Panama City",39689
+Florida,Pensacola,80665
+Florida,"Pompano Beach",36582
+Florida,"Port Saint Lucie",27680
+Florida,"Punta Gorda",52904
+Florida,"Saint Petersburg",94688
+Florida,Seminole,115561
+Florida,"Spring Hill",19872
+Florida,Tallahassee,22200
+Florida,Tampa,326622
+Florida,"Vero Beach",37540
+Florida,"West Palm Beach",77060
+Florida,"Winter Haven",27415
+Florida,Zephyrhills,21591
+Georgia,"Sub Total",765400
+Georgia,Atlanta,433402
+Georgia,Columbus,3914
+Georgia,Cumming,69373
+Georgia,Decatur,30186
+Georgia,Duluth,34397
+Georgia,Lawrenceville,71144
+Georgia,Macon,76024
+Georgia,Savannah,46960
+Hawaii,"Sub Total",250231
+Hawaii,Honolulu,250231
+Idaho,"Sub Total",183154
+Idaho,Boise,134406
+Idaho,"Idaho Falls",48748
+Illinois,"Sub Total",927768
+Illinois,Aurora,19717
+Illinois,"Carol Stream",39234
+Illinois,Chicago,598063
+Illinois,"East Saint Louis",39136
+Illinois,Evanston,15450
+Illinois,Peoria,103265
+Illinois,Springfield,112903
+Indiana,"Sub Total",470607
+Indiana,Anderson,36832
+Indiana,Evansville,81138
+Indiana,"Fort Wayne",23880
+Indiana,Indianapolis,175538
+Indiana,Jeffersonville,65197
+Indiana,"South Bend",88022
+Iowa,"Sub Total",288782
+Iowa,"Cedar Rapids",18282
+Iowa,Davenport,37813
+Iowa,"Des Moines",222507
+Iowa,"Iowa City",10180
+Kansas,"Sub Total",468581
+Kansas,"Kansas City",119406
+Kansas,"Shawnee Mission",209667
+Kansas,Topeka,65259
+Kansas,Wichita,74249
+Kentucky,"Sub Total",260944
+Kentucky,Lexington,204207
+Kentucky,London,38651
+Kentucky,Louisville,18086
+Louisiana,"Sub Total",566003
+Louisiana,Alexandria,90082
+Louisiana,"Baton Rouge",101215
+Louisiana,Lafayette,35007
+Louisiana,"Lake Charles",8204
+Louisiana,"New Orleans",180272
+Louisiana,Shreveport,151223
+Maryland,"Sub Total",255013
+Maryland,Annapolis,23440
+Maryland,Baltimore,166217
+Maryland,Bethesda,51751
+Maryland,"Silver Spring",13605
+Massachusetts,"Sub Total",370516
+Massachusetts,Boston,108196
+Massachusetts,Lynn,96761
+Massachusetts,Newton,9635
+Massachusetts,Springfield,39419
+Massachusetts,Watertown,11818
+Massachusetts,Woburn,36801
+Massachusetts,Worcester,67886
+Michigan,"Sub Total",485463
+Michigan,"Ann Arbor",31280
+Michigan,"Battle Creek",54324
+Michigan,Dearborn,17906
+Michigan,Detroit,78729
+Michigan,Farmington,13730
+Michigan,Flint,50735
+Michigan,Lansing,87886
+Michigan,Saginaw,103589
+Michigan,Southfield,47284
+Minnesota,"Sub Total",481441
+Minnesota,Duluth,27690
+Minnesota,Loretto,23752
+Minnesota,Minneapolis,294199
+Minnesota,"Saint Paul",124012
+Minnesota,"Young America",11788
+Mississippi,"Sub Total",214684
+Mississippi,Jackson,184217
+Mississippi,Meridian,30467
+Missouri,"Sub Total",484301
+Missouri,"Jefferson City",9855
+Missouri,"Kansas City",255941
+Missouri,"Saint Joseph",36531
+Missouri,"Saint Louis",147494
+Missouri,Springfield,34480
+Montana,"Sub Total",94154
+Montana,Billings,45417
+Montana,Bozeman,4903
+Montana,Missoula,43834
+Nebraska,"Sub Total",129244
+Nebraska,Lincoln,7536
+Nebraska,Omaha,121708
+Nevada,"Sub Total",304630
+Nevada,"Carson City",47237
+Nevada,Henderson,47374
+Nevada,"Las Vegas",77479
+Nevada,"North Las Vegas",40167
+Nevada,Reno,51402
+Nevada,Sparks,40971
+"New Hampshire","Sub Total",5025
+"New Hampshire",Portsmouth,5025
+"New Jersey","Sub Total",284052
+"New Jersey",Elizabeth,36540
+"New Jersey","Jersey City",22250
+"New Jersey",Newark,122900
+"New Jersey",Trenton,102362
+"New Mexico","Sub Total",137242
+"New Mexico",Albuquerque,101099
+"New Mexico","Las Cruces",36143
+"New York","Sub Total",1304040
+"New York",Albany,126522
+"New York",Bronx,8794
+"New York",Brooklyn,53731
+"New York",Buffalo,126699
+"New York",Elmira,50974
+"New York",Flushing,17218
+"New York","Great Neck",14887
+"New York",Jamaica,28404
+"New York","Mount Vernon",28171
+"New York","New York City",529098
+"New York",Rochester,178257
+"New York",Schenectady,55695
+"New York","Staten Island",51590
+"New York",Syracuse,19686
+"New York","White Plains",14314
+"North Carolina","Sub Total",540942
+"North Carolina",Asheville,27419
+"North Carolina",Charlotte,197737
+"North Carolina",Durham,55033
+"North Carolina",Fayetteville,29276
+"North Carolina",Greensboro,112083
+"North Carolina",Raleigh,87719
+"North Carolina","Winston Salem",31675
+"North Dakota","Sub Total",64888
+"North Dakota",Fargo,26105
+"North Dakota","Grand Forks",38783
+Ohio,"Sub Total",1162958
+Ohio,Akron,92072
+Ohio,Cincinnati,393188
+Ohio,Cleveland,68257
+Ohio,Columbus,202473
+Ohio,Dayton,140913
+Ohio,Lima,46614
+Ohio,Toledo,122512
+Ohio,Youngstown,96929
+Oklahoma,"Sub Total",495596
+Oklahoma,Edmond,18991
+Oklahoma,Norman,27728
+Oklahoma,"Oklahoma City",285231
+Oklahoma,Tulsa,163646
+Oregon,"Sub Total",290554
+Oregon,Portland,290554
+Pennsylvania,"Sub Total",917176
+Pennsylvania,Allentown,45661
+Pennsylvania,Harrisburg,39684
+Pennsylvania,Lancaster,67483
+Pennsylvania,Philadelphia,145259
+Pennsylvania,Pittsburgh,376913
+Pennsylvania,Reading,65572
+Pennsylvania,Scranton,100408
+Pennsylvania,"Wilkes Barre",52777
+Pennsylvania,York,23419
+"Rhode Island","Sub Total",81058
+"Rhode Island",Providence,81058
+"South Carolina","Sub Total",456421
+"South Carolina",Anderson,39159
+"South Carolina",Beaufort,28957
+"South Carolina",Charleston,103698
+"South Carolina",Columbia,248800
+"South Carolina",Florence,17028
+"South Carolina","Myrtle Beach",18779
+"South Dakota","Sub Total",104960
+"South Dakota","Sioux Falls",104960
+Tennessee,"Sub Total",408990
+Tennessee,Chattanooga,84835
+Tennessee,Knoxville,13107
+Tennessee,Memphis,152021
+Tennessee,Murfreesboro,26571
+Tennessee,Nashville,132456
+Texas,"Sub Total",4031764
+Texas,Abilene,108771
+Texas,Amarillo,100754
+Texas,Arlington,27102
+Texas,Austin,294640
+Texas,Beaumont,51301
+Texas,Bryan,19619
+Texas,"College Station",19132
+Texas,"Corpus Christi",87784
+Texas,Dallas,594131
+Texas,Denton,46353
+Texas,"El Paso",690841
+Texas,"Fort Worth",185850
+Texas,Galveston,8358
+Texas,Garland,16213
+Texas,Houston,517164
+Texas,Huntsville,50271
+Texas,Irving,54182
+Texas,Killeen,94092
+Texas,Lubbock,84763
+Texas,Mesquite,55629
+Texas,Midland,32305
+Texas,"San Antonio",400031
+Texas,Spring,174545
+Texas,Temple,53850
+Texas,Tyler,90228
+Texas,Waco,135762
+Texas,"Wichita Falls",38093
+Utah,"Sub Total",168620
+Utah,"Salt Lake City",168620
+Virginia,"Sub Total",853503
+Virginia,Alexandria,83063
+Virginia,Arlington,124430
+Virginia,Ashburn,14155
+Virginia,Fairfax,5964
+Virginia,Hampton,78306
+Virginia,Herndon,3755
+Virginia,Lynchburg,28945
+Virginia,Norfolk,72233
+Virginia,Richmond,296565
+Virginia,Roanoke,126768
+Virginia,"Virginia Beach",19319
+Washington,"Sub Total",434143
+Washington,Bellevue,26011
+Washington,Seattle,289456
+Washington,Spokane,93469
+Washington,Tacoma,25207
+"West Virginia","Sub Total",494307
+"West Virginia",Charleston,257900
+"West Virginia",Huntington,182774
+"West Virginia",Morgantown,53633
+Wisconsin,"Sub Total",206495
+Wisconsin,"Green Bay",51714
+Wisconsin,Madison,37883
+Wisconsin,Milwaukee,116898
