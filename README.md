@@ -24,4 +24,4 @@ To reproduce this process on one's own machine, walk through the following:
 2. Create the `sales` SQL database. The [query](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/create_db.sql) for creating the database is located in this repository. This project used MySQL Workbench 8.0 to build the database.
 - The synthetic source data to load into the database is all located in the [data folder](https://github.com/akicklig/Automated-Executive-Reporting/tree/main/Workflow_Files/data) and consists of 6 CSV files: `customers.csv`, `jobs.csv`, `city_state.csv`, `cars.csv`, `transactions.csv`, and `employees.csv`.
 - Of note if using MySQL to reproduce the project:
--- ensure that `local_infile = true` to load data from your machine into the database
+- Ensure that `local_infile = true` to load data from your machine into the database
