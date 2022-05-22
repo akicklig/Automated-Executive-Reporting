@@ -27,3 +27,4 @@ To reproduce this process on one's own machine, walk through the following:
 - Ensure that `local_infile = true` to load data from your machine into the database.
 - If the attempt to load local data triggers an `Error Code 2068` alert, refer to [this stack overflow entry](https://stackoverflow.com/questions/63264360/error-code-2068-file-requested-rejected-due-to-restrictions-on-access-with-root/) for assitance.
 - Ensure the load files are located in the correct `/Uploads/` file path: `'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/customers.csv'`.
+3. Query the `sales` data to be used for building the Excel file. The [queries](https://github.com/akicklig/Automated-Executive-Reporting/blob/main/Workflow_Files/sql_queries.sql) for these pulls can be found in this repository.
