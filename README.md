@@ -3,4 +3,5 @@ Created an automated workflow that queries data from SQL, updates Excel charts, 
 
 ## Objective
 
-This project is meant to demonstrate 
+This project is meant to demonstrate the efficiencies of automating routine reporting/analytics as a service when productionizing the process into a dashboard or other tool may not be viable.
+
