@@ -16,3 +16,8 @@ The end-to-end stages of the project workflow are:
 - create and save a PowerPoint with charting output from Excel
 - draft and send an email to Executive Leadership with the newly created PowerPoint attached.
 
+## Reproduction
+
+To reproduce this process on one's own machine, walk through the following:
+
+1. 
